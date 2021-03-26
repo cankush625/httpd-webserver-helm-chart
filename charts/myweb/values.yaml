@@ -1,5 +1,0 @@
-replicaCount: 3
-
-myservice:
-  type: NodePort
-  port: 8080
